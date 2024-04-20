@@ -35,6 +35,14 @@ body::before {
   }
 }
 
+@media (max-width: 1023px) {
+  body::before {
+    background-attachment: scroll; /* or unset */
+    /* background: #040404 url("../img/gggkj.jpg") top right no-repeat;
+    background-size: cover; */
+  }
+}
+
 a {
   color: #18d26e;
   text-decoration: none;
