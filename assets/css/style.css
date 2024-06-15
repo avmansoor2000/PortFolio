@@ -783,7 +783,14 @@ section .container {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+ 
 }
+
+/* .portfolio-img{
+  width: 951px;
+  height: 718;
+  object-fit: cover;
+} */
 
 .portfolio #portfolio-flters {
   padding: 0;
